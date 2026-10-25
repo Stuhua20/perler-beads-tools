@@ -1,0 +1,194 @@
+[
+  {
+    "code": "S01",
+    "name": "White",
+    "rgb": [234, 238, 243],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S02",
+    "name": "Burning Sand",
+    "rgb": [238, 146, 124],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S03",
+    "name": "Tangerine",
+    "rgb": [255, 166, 48],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S04",
+    "name": "Orange",
+    "rgb": [235, 96, 39],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S05",
+    "name": "Tall Poppy",
+    "rgb": [203, 53, 49],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S06",
+    "name": "Raspberry Pink",
+    "rgb": [239, 103, 178],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S07",
+    "name": "Gray",
+    "rgb": [149, 150, 152],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S08",
+    "name": "Emerald",
+    "rgb": [31, 196, 103],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S09",
+    "name": "Dark Green",
+    "rgb": [0, 104, 94],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S10",
+    "name": "Baby Blue",
+    "rgb": [46, 171, 216],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S11",
+    "name": "Dark Blue",
+    "rgb": [0, 79, 164],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S12",
+    "name": "Pastel Lavender",
+    "rgb": [145, 101, 178],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S13",
+    "name": "Black",
+    "rgb": [41, 42, 43],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S14",
+    "name": "Sandstorm",
+    "rgb": [225, 200, 53],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S15",
+    "name": "Redwood",
+    "rgb": [154, 69, 65],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S16",
+    "name": "Brown",
+    "rgb": [101, 70, 61],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S17",
+    "name": "Light Brown",
+    "rgb": [137, 93, 73],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S18",
+    "name": "Sand",
+    "rgb": [220, 163, 132],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S19",
+    "name": "Bubble Gun",
+    "rgb": [242, 191, 184],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S20",
+    "name": "Green",
+    "rgb": [0, 144, 83],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S21",
+    "name": "Pastel Green",
+    "rgb": [139, 178, 58],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S22",
+    "name": "Purple",
+    "rgb": [72, 51, 126],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S24",
+    "name": "True Blue",
+    "rgb": [0, 120, 191],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S25",
+    "name": "Hot Pink",
+    "rgb": [220, 81, 154],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S27",
+    "name": "Yellow",
+    "rgb": [234, 193, 37],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S28",
+    "name": "Lily Pink",
+    "rgb": [221, 161, 204],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S29",
+    "name": "Pastel Yellow",
+    "rgb": [225, 211, 103],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S30",
+    "name": "Shadow Green",
+    "rgb": [158, 201, 205],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S31",
+    "name": "Sea Mist",
+    "rgb": [178, 215, 206],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S32",
+    "name": "Beeswax",
+    "rgb": [238, 211, 158],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S43",
+    "name": "Dark Gray",
+    "rgb": [112, 117, 123],
+    "contributor": "Perlervault"
+  },
+  {
+    "code": "S79",
+    "name": "Light Gray",
+    "rgb": [167, 172, 173],
+    "contributor": "Perlervault"
+  }
+]

@@ -1,0 +1,17 @@
+[project]
+name = "perler-beads-tools"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "stuhua", email = "2608149860@qq.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+perler-beads-tools = "perler_beads_tools:main"
+
+[build-system]
+requires = ["uv_build>=0.13.5,<0.14.0"]
+build-backend = "uv_build"

@@ -1,0 +1,194 @@
+[
+  {
+    "code": "01",
+    "name": "White",
+    "rgb": [229, 236, 241],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "02",
+    "name": "Cream",
+    "rgb": [228, 228, 197],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "03",
+    "name": "Yellow",
+    "rgb": [233, 199, 4],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "04",
+    "name": "Orange",
+    "rgb": [209, 72, 3],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "05",
+    "name": "Red",
+    "rgb": [180, 6, 14],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "06",
+    "name": "Pink",
+    "rgb": [234, 138, 165],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "07",
+    "name": "Purple",
+    "rgb": [113, 34, 151],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "08",
+    "name": "Blue",
+    "rgb": [2, 57, 163],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "09",
+    "name": "Light Blue",
+    "rgb": [2, 91, 195],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "10",
+    "name": "Green",
+    "rgb": [2, 118, 67],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "11",
+    "name": "Light Green",
+    "rgb": [25, 205, 167],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "12",
+    "name": "Brown",
+    "rgb": [62, 39, 26],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "17",
+    "name": "Grey",
+    "rgb": [131, 143, 152],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "18",
+    "name": "Black",
+    "rgb": [20, 19, 21],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "20",
+    "name": "Reddish Brown",
+    "rgb": [141, 42, 15],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "21",
+    "name": "Light Brown",
+    "rgb": [190, 108, 33],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "22",
+    "name": "Dark Red",
+    "rgb": [145, 2, 10],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "26",
+    "name": "Matt Rose",
+    "rgb": [232, 164, 152],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "27",
+    "name": "Beige",
+    "rgb": [220, 177, 142],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "28",
+    "name": "Dark Green",
+    "rgb": [30, 44, 28],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "29",
+    "name": "Claret",
+    "rgb": [191, 1, 66],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "30",
+    "name": "Burgundy",
+    "rgb": [78, 12, 27],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "31",
+    "name": "Turquoise",
+    "rgb": [72, 154, 185],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "43",
+    "name": "Pastel Yellow",
+    "rgb": [231, 228, 90],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "44",
+    "name": "Pastel Red",
+    "rgb": [249, 97, 96],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "45",
+    "name": "Pastel Purple",
+    "rgb": [142, 105, 205],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "46",
+    "name": "Pastel Blue",
+    "rgb": [81, 174, 228],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "47",
+    "name": "Pastel Green",
+    "rgb": [128, 223, 150],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "48",
+    "name": "Pastel Pink",
+    "rgb": [214, 122, 209],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "49",
+    "name": "Azure",
+    "rgb": [15, 172, 209],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "70",
+    "name": "Light Grey",
+    "rgb": [165, 179, 192],
+    "contributor": "Jeppewl"
+  },
+  {
+    "code": "71",
+    "name": "Dark Grey",
+    "rgb": [68, 80, 89],
+    "contributor": "Jeppewl"
+  }
+]
